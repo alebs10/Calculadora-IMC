@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\IMC\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\IMC\IMC\obj\Debug\IMC.pdb
